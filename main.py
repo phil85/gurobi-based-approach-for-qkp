@@ -12,7 +12,7 @@ weights = [2, 3, 4, 5]
 # Define profits for including items i and j in the knapsack
 profits = {(0, 0): 1,
            (0, 1): 2,
-           (0, 2): 4,
+           (0, 2): 11,
            (1, 1): 1,
            (1, 2): 3,
            (1, 3): 2,
