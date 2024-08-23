@@ -1,6 +1,12 @@
 # Gurobi-based approach for the quadratic knapsack problem
 An exact approach for the quadratic knapsack problem that uses the Gurobi solver (www.gurobi.com).
 
+## Reference
+
+Please cite the following paper if you use this repository.
+
+**Hochbaum, D. S., Baumann, P., Goldschmidt O., Zhang Y.** (2024): A Fast and Effective Breakpoints Algorithm for the Quadratic Knapsack Problem. under review.
+
 Bibtex:
 ```
 @article{hochbaum2024fast,
