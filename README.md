@@ -23,6 +23,6 @@ Bibtex:
 
 - [Repository containing all benchmark instances](https://github.com/phil85/benchmark-instances-for-qkp)
 - [Repository containing all results](https://github.com/phil85/results-for-qkp-benchmark-instances)
-- [Repository containing the code for the breakpoints algorithm QKBP](https://github.com/phil85/breakpoints-algorithm-for-qkp)
+- [Repository containing the code for the Breakpoints Algorithm QKBP](https://github.com/phil85/breakpoints-algorithm-for-qkp)
 - [Repository containing the code for Hexaly-based approach](https://github.com/phil85/hexaly-based-approach-for-qkp)
 - [Repository containing the code for the relative greedy algorithm](https://github.com/phil85/greedy-algorithm-for-qkp)
